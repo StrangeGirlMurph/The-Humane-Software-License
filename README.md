@@ -62,26 +62,10 @@ Change it to your hearts content! The HSL is fairly short and you can just edit 
 
 The Humane Software Licenses are free to be used or modified by everyone without any kind of copyright notice! :)  
 
-The following license applies to The Humane Software Licenses:
+© 2023 Murphy. This work is licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode). 
 
-```txt
-Copyright 2023 Murphy
+[<img src="https://user-images.githubusercontent.com/62220780/224391747-137cafba-a44f-4a42-90ff-8cfa292657fe.png" width="120" />](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of these Licenses, to deal in the Licenses without restriction,
-including without limitation the rights to use, copy, modify, merge 
-and/or distribute copies of the Licenses, and to permit persons 
-to whom the Licenses is furnished to do so. When distributing the Licenses 
-this copyright notice and this permission notice has to be included.
-
-THE LICENSES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
-NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE 
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
-WITH THE LICENSES OR THE USE OR OTHER DEALINGS IN THE LICENSES.
-```
 
 ## Credits to the ACSL
 
