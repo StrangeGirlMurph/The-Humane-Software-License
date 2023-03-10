@@ -62,7 +62,7 @@ Change it to your hearts content! The HSL is fairly short and you can just edit 
 
 The Humane Software Licenses are free to be used or modified by everyone without any kind of copyright notice! :)  
 
-© 2023 Murphy. This work is licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode). 
+© 2023 Murphy. This work is licensed under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/) ([legal code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)).
 
 [<img src="https://user-images.githubusercontent.com/62220780/224391747-137cafba-a44f-4a42-90ff-8cfa292657fe.png" width="120" />](https://creativecommons.org/publicdomain/zero/1.0/)
 
